@@ -12,16 +12,17 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 0,
+        "id": 1,
         "title": "WebApp",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "Stride Diagram for WebSite"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 4,
     "reviewer": "Mirte Filarski",
     "threatTop": 0
   }
